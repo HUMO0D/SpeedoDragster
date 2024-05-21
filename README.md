@@ -125,7 +125,7 @@ Screenshots from the App:
 - Add a functionality where the app can connect to a dedicated external GPS receiver via Bluetooth, allowing it to fetch speed and other geolocation data from the external device for more accurate readings.
 
 ## Contributing
-I welcome contributions from the community. If you'd like to contribute or suggest an idea to SpeedoDragster, please contact me through [Email](humood.alrawahi@gmail.com) or open an issue on GitHub.
+I welcome contributions from the community. If you'd like to contribute or suggest an idea to SpeedoDragster, please contact me through [Email](mailto:humood.alrawahi@gmail.com) or open an issue on GitHub.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
